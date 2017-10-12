@@ -1,0 +1,8 @@
+[package]
+name = "sqlite"
+version = "0.0.1"
+
+include = [
+	"Cargo.toml",
+	"src/*"
+]
